@@ -4,7 +4,7 @@
 
 🌐 **Versión web de la guía:**
 
-👉 **[https://danielortiz-eng.github.io/Git/](https://danielortiz-eng.github.io/Git/)**
+👉 **[https://danielortiz-eng.github.io/Git/](https://danielortiz-eng.github.io/Guia_SSH/)**
 
 ---
 
@@ -51,7 +51,7 @@
 
 ## 🧭 Acceso rápido
 
-🔗 **Guía online:** [https://danielortiz-eng.github.io/Git/](https://danielortiz-eng.github.io/Git/)
+🔗 **Guía online:** [https://danielortiz-eng.github.io/Git/](https://danielortiz-eng.github.io/Guia_SSH/)
 
 ---
 
